@@ -16,7 +16,7 @@ public class Task_7 {
 //        }
 //}
     public static void main(String[] args) {
-       int result = getGreatestCommonDivisor(30, -18);
+        getGreatestCommonDivisor(30, -18);
     }
 
     public static int getGreatestCommonDivisor(int first, int second) {
